@@ -1,0 +1,109 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 947px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 808px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 14px 8px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  margin: 129px 562px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -28px 22px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 796px;
+  background-image: url("images/ekene11.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 802px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 666px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 532px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 656px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 385px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 502px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 801px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 1130px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 586px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 185px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 711px;
+  }
+}
